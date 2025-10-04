@@ -1,3 +1,3 @@
 # Boring-Inc.
 Some fun(boring) stuff
-![logo](image/logo.png)
+![logo](image/boring_inc.png)
