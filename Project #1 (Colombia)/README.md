@@ -1,2 +1,2 @@
-![Distribution](Distribution.png)
-![Heatmap](Heatmap.png)
+![Distribution](image/Distribution.png)
+![Heatmap](image/Heatmap.png)
